@@ -1,0 +1,7 @@
+matplotlib
+meteostat
+numpy
+pandas
+scikit-learn
+seaborn
+statsmodels
