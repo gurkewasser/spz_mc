@@ -55,10 +55,4 @@ Das Notebook `main_spz.ipynb` führt eine umfassende Analyse historischer Wetter
 
 Das Ziel dieser Arbeit ist es, auf Basis meteorologischer Zeitreihen robuste Modelle für die Temperatur- und Niederschlagsvorhersage zu entwickeln und klimatische Extremereignisse statistisch zu analysieren.
 
-## 👤 Autor
-
-Arian Iseni  
-Studiengang: Data Science BSc  
-Modul: SPZ - OMC (Spezialisierung)
-
 ---
